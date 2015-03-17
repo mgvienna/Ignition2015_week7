@@ -5,4 +5,5 @@
 - Nolawee's skit
 - live coding, tell me what to type
   - lots of small iterations on the same code
+  - SQL/ORM queries
 - walk through some code reading it line-by-line and tearing it a part
