@@ -7,3 +7,4 @@
   - lots of small iterations on the same code
   - SQL/ORM queries
 - walk through some code reading it line-by-line and tearing it a part
+- go through the tutorial in class with everyone
