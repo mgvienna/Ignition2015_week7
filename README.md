@@ -1,6 +1,4 @@
-# Javascript Basics
-
-
+# Week 7: Javascript Basics
 
 #### Required
 - Answer the following
