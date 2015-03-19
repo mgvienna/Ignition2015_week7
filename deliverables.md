@@ -1,1 +1,6 @@
--
+- What is a scripting language?
+- What is a variable?
+- What is a string? An array? A boolean?
+- What are events?
+- Link to codeacademy profile: 
+- Code for Project Euler solution in file `project_euler_1.js`.
