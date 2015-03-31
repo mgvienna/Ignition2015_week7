@@ -8,3 +8,7 @@
   - SQL/ORM queries
 - walk through some code reading it line-by-line and tearing it a part
 - go through a tutorial in class with everyone
+
+##### Monday
+- loops in JS
+- 
